@@ -1,6 +1,4 @@
-# ecommerce-website
-# ecommerce-website
-A ecommerce website developed as project with help of python and AWS
+# ecommerce-website developed  with help of python and AWS
 
 # Django-Ecommerce
 
